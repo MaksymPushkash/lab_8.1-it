@@ -1,0 +1,2 @@
+﻿  lab_08.1-it.cpp
+C:\Users\admin\Desktop\lab_8.1-it\UnitTest\lab_08.1-it\lab_08.1-it\lab_08.1-it.cpp(29,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
